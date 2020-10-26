@@ -1,0 +1,11 @@
+ServiceFileSync/bin
+ServiceFileSync/obj
+ServiceFileSync/packages
+
+ServiceFileSync.Client/bin
+ServiceFileSync.Client/obj
+ServiceFileSync.Client/packages
+
+ServiceFileSync.Core/bin
+ServiceFileSync.Core/obj
+ServiceFileSync.Core/packages
